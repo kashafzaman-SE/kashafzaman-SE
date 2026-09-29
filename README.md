@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Kashaf Zaman
 
-<!--
-**kashafzaman-SE/kashafzaman-SE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
+ I’m a Software Engineering student with a strong interest in software development, programming, and emerging technologies. I enjoy learning new concepts, developing practical solutions, and continuously improving my technical and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I’m Learning
+ Java and Object-Oriented Programming
+Data Structures and Algorithms
+Web Development
+Database Management
+Software Engineering and Design Principles
+
+What I’m Working On
+ Developing academic and personal projects
+Applying programming concepts to practical problems
+Strengthening my problem-solving and analytical skills
+Exploring modern development tools and technologies
+
+My Goal
+ To become a skilled and innovative software developer by continuously learning, building meaningful projects, and gaining practical experience.
+
+Learn • Build • Innovate • Grow
