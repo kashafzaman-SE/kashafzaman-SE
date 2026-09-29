@@ -1,10 +1,10 @@
-Hi, I'm Kashaf Zaman
+Hi, I’m Kashaf Zaman
 
 Software Engineering Student | Aspiring Software Developer
 
 Welcome to my GitHub profile!
 
-I’m a Software Engineering student with a strong interest in software development, programming, and emerging technologies. I enjoy learning new concepts, developing practical solutions, and continuously improving my technical and problem-solving skills.
+I’m currently pursuing a Bachelor’s degree in Software Engineering at the University of Central Punjab (UCP) and am in my third semester. I have a keen interest in software development, programming, and emerging technologies. I am committed to continuously expanding my technical knowledge, strengthening my problem-solving abilities, and developing practical solutions through hands-on learning and projects.
 
 What I’m Learning
 
@@ -29,18 +29,18 @@ What I’m Working On
 1. Developing academic and personal projects
 
 
-2. Applying programming concepts to practical problems
+2. Applying programming concepts to practical, real-world problems
 
 
-3. Strengthening my problem-solving and analytical skills
+3. Enhancing my problem-solving, analytical, and programming skills
 
 
-4. Exploring modern development tools and technologies
+4. Exploring modern development tools, technologies, and best practices
 
 
 
 My Goal
 
-To become a skilled and innovative software developer by continuously learning, building meaningful projects, and gaining practical experience.
+To build a strong foundation in software engineering, gain meaningful practical experience, and grow into a skilled software developer capable of creating reliable, innovative, and impactful software solutions.
 
 Learn • Build • Innovate • Grow
